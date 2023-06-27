@@ -16,6 +16,7 @@
 		BFF982552A439EFB00575CC2 /* custom_videoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF982542A439EFB00575CC2 /* custom_videoTests.swift */; };
 		BFF9825F2A439EFB00575CC2 /* custom_videoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF9825E2A439EFB00575CC2 /* custom_videoUITests.swift */; };
 		BFF982612A439EFB00575CC2 /* custom_videoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF982602A439EFB00575CC2 /* custom_videoUITestsLaunchTests.swift */; };
+		BFF9826E2A439FB500575CC2 /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = BFF9826D2A439FB500575CC2 /* Video.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		BFF9825A2A439EFB00575CC2 /* custom-videoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "custom-videoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFF9825E2A439EFB00575CC2 /* custom_videoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = custom_videoUITests.swift; sourceTree = "<group>"; };
 		BFF982602A439EFB00575CC2 /* custom_videoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = custom_videoUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		BFF9826D2A439FB500575CC2 /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				BFF9823D2A439EF200575CC2 /* AppDelegate.swift */,
 				BFF9823F2A439EF200575CC2 /* SceneDelegate.swift */,
 				BFF982412A439EF200575CC2 /* ViewController.swift */,
+				BFF9826D2A439FB500575CC2 /* Video.swift */,
 				BFF982432A439EF200575CC2 /* Main.storyboard */,
 				BFF982462A439EFA00575CC2 /* Assets.xcassets */,
 				BFF982482A439EFA00575CC2 /* LaunchScreen.storyboard */,
@@ -259,6 +262,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BFF982422A439EF200575CC2 /* ViewController.swift in Sources */,
+				BFF9826E2A439FB500575CC2 /* Video.swift in Sources */,
 				BFF9823E2A439EF200575CC2 /* AppDelegate.swift in Sources */,
 				BFF982402A439EF200575CC2 /* SceneDelegate.swift in Sources */,
 			);
